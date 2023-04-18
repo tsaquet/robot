@@ -1,0 +1,11 @@
+tasks:
+  Open browser navigateur:
+    robotTaskName: Open browser navigateur
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .

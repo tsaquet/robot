@@ -1,0 +1,51 @@
+{
+    "Containervolumechartheader": {
+        "screenshot": ".images\\containervolumechartheader-screenshot.png",
+        "source": "https://www.toutsurmoneau.fr/mon-compte-en-ligne/historique-de-consommation-tr",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".container-volume-chart .header"
+    },
+    "Dflexnthchild2linkicondlgnone": {
+        "screenshot": ".images\\dflexnthchild2linkicondlgnone-screenshot.png",
+        "source": "https://www.toutsurmoneau.fr/mon-compte-en-ligne/tableau-de-bord",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".d-flex:nth-child(2) > .link-icon .d-lg-none"
+    },
+    "Downloadlink": {
+        "screenshot": ".images\\downloadlink-screenshot.png",
+        "source": "https://www.toutsurmoneau.fr/mon-compte-en-ligne/historique-de-consommation-tr",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".download-link"
+    },
+    "Mb2sztypobutton8": {
+        "screenshot": null,
+        "source": "https://www.toutsurmoneau.fr/mon-compte-en-ligne/je-me-connecte",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".mb-2 > .sz-typo-button"
+    },
+    "Password": {
+        "screenshot": ".images\\password-screenshot.png",
+        "source": "https://www.toutsurmoneau.fr/mon-compte-en-ligne/je-me-connecte",
+        "strategy": "id",
+        "type": "browser",
+        "value": "password"
+    },
+    "TarteaucitronCTAButton": {
+        "screenshot": ".images\\tarteaucitronctabutton-screenshot.png",
+        "source": "https://www.toutsurmoneau.fr/mon-compte-en-ligne/je-me-connecte",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".tarteaucitronCTAButton"
+    },
+    "Username": {
+        "screenshot": ".images\\username-screenshot.png",
+        "source": "https://www.toutsurmoneau.fr/mon-compte-en-ligne/je-me-connecte",
+        "strategy": "id",
+        "type": "browser",
+        "value": "username"
+    }
+}
