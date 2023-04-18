@@ -16,7 +16,8 @@ ${DOWNLOAD_DIR}     ${CURDIR}${/}downl${/}
 Open browser navigateur
     Set Download Directory    ${DOWNLOAD_DIR}
     ${provider}=    Get Secret    provider
-    Open Available Browser    ${provider}[url1]
+    Open Available Browser    ${provider}[url1]   maximized=${TRUE}
+    Set Selenium Speed    1 second
     Sleep    1s
     Click Button When Visible    //*[@id="tarteaucitronAlertBig"]/button[2]
     Sleep    1s
